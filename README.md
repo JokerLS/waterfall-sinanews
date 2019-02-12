@@ -1,4 +1,4 @@
-## waterfall-sinanews
+## Waterfall-SinaNews
 
 预览地址：
 
