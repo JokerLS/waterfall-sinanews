@@ -1,6 +1,6 @@
 ## Waterfall-SinaNews
 
-预览地址：
+预览地址：https://jokerls.github.io/waterfall-sinanews/index.html
 
 ## 懒加载原理
     先将元素地址链接（标签中的 src ）设为统一元素地址链接，将其真正元素地址链接储存在标签中的自定义属性中；通过监听元素出现在用户视野中时，将自定义属性中的地址链接存储到 src 属性中，来达到懒加载的效果。
